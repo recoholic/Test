@@ -1,2 +1,2 @@
 # Test
-githubの使い方をテスト
+githubの使い方をテストしてる
