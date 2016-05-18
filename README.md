@@ -1,2 +1,1 @@
-# Test
-githubの使い方をテストしてる
+# Bye, Pull Request
